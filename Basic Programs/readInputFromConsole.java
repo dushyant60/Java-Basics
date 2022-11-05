@@ -5,16 +5,16 @@ import java.util.Scanner;
 
 //BufferedReader Method
 
-public class readInputFromConsole {
-    public static void main(String[] args) 
-        throws IOException
-        {
-            BufferedReader reader = new BufferedReader(
-                new InputStreamReader(System.in));
-                System name = reader.readLine();
-                System.out.println(name);
-        }
-    }
+// public class readInputFromConsole {
+//     public static void main(String[] args) 
+//         throws IOException
+//         {
+//             BufferedReader reader = new BufferedReader(
+//                 new InputStreamReader(System.in));
+//                 System name = reader.readLine();
+//                 System.out.println(name);
+//         }
+//     }
 
 
 // Java program to demonstrate working of Scanner in Java
